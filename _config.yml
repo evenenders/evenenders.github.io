@@ -1,0 +1,25 @@
+# Site settings
+title: Swedish Mafia
+header-img: img/home-bg.jpg
+email: evenenders@gmail.com
+copyright_name: evenenders.com
+description: "Swedish Mafia"
+baseurl: ""
+url: "http://evenenders.com"
+github_username:  evenenders
+email_username:  evenenders@gmail.com
+#facebook_username:  StartBootstrap
+#twitter_username: SBootstrap
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

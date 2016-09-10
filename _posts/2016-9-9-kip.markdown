@@ -4,7 +4,7 @@ title:      "Your Mom Goes to College"
 subtitle:   "nothing is easy"
 date:       2016-09-09 10:00:00
 author:     "Evenenders"
-header-img: "img/test-pedrp.jpg"
+header-img: "img/test-pedro.jpg"
 ---
 
 

@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "ASK:DFJAHDSaserbjdwrq"
-subtitle:   "mjrt fgmgfs m"
-date:       2016-09-05 12:00:00
+title:      "Your Mom Goes to College"
+subtitle:   "nothing is easy"
+date:       2016-09-09 10:00:00
 author:     "Evenenders"
 header-img: "img/post-bg-01.jpg"
 ---
-fuck github.
+
 
 ![Kip](/img/kip.gif "Kip")

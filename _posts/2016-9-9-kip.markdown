@@ -7,8 +7,8 @@ author:     "Evenenders"
 header-img: "img/post-bg-01.jpg"
 ---
 
-test
 
 
 
-![No pinch.](/img/post-kip.gif "Fucking Red Pill")
+
+(/img/kip.gif "Fucking Red Pill")

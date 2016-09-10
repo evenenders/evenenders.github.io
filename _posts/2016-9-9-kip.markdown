@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "Kip Dynomite is Dynomite."
+subtitle:   "Your Mom Goes to College"
+date:       2016-09-05 12:00:00
+author:     "Evenenders"
+header-img: "img/post-bg-01.jpg"
+---
+
+test
+
+
+
+![No pinch.](/img/post-kip.gif "Fucking Red Pill")

@@ -15,7 +15,7 @@ After I read all the Little House on the Prairie books by Laura Ingalls Wilder, 
 
 Like many pre-teens I had an all black phase because I felt awkward and black is supposed to be a fashion fix all (or hide all). 
 
-I wore tie-dye t-shirt with a grey cut-off hoodie on a date with my high-school boyfriend. He was pretty mortified to be seen with me.  To be fair I was really into the musical HAIR at that point in time. Nirvana and grunge was also popular then so there was nothing to say that tie-dye, cut-offs and the occasional flannel weren’t good looks. 
+I wore a tie-dye t-shirt with a grey cut-off hoodie on a date with my high-school boyfriend. He was pretty mortified to be seen with me.  To be fair I was really into the musical HAIR at that point in time. Nirvana and grunge was also popular then so there was nothing to say that tie-dye, cut-offs and the occasional flannel weren’t good looks. 
 
 I’ve mixed and matched patterns, which has prompted others to ask if I am colorblind. I still wear bright yellow unapologetically.
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      "The Fendi Detectives"
 subtitle:   "an origin story..."
-date:       2016-09-05 12:00:00
+date:       2016-09-12 12:00:00
 author:     "Evenenders"
 header-img: "img/IMG_20160602_160410346.jpg"
 ---
